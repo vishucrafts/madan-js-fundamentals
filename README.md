@@ -38,3 +38,10 @@ npm init -y
 git add . # Add files to staging area
 git commit -m "Initial commit"
 ```
+
+## create git branch
+
+```sh
+git branch my-branch-name
+git checkout my-branch-name
+```
